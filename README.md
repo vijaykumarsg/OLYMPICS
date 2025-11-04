@@ -62,13 +62,14 @@ Page 3: Sport & Athlete Performance
   Improves visibility into country, sport, and gender-based achievements.
   Facilitates historical comparison and strategic planning for future events.
 
-9. Tools & Technologies
-  Category	Tools Used
-  Data Visualization	Power BI
-  Data Cleaning	Power Query
-  Data Modeling	DAX, Relationships
-  Source Data	Excel / CSV
-  Documentation	Markdown, PowerPoint
+9. |Tools| & |Technologies|
+   |:--|:--|
+  | Category | Tools Used |
+  | Data Visualization |	Power BI|
+  |Data Cleaning|	Power Query|
+  |Data Modeling	DAX|Relationships|
+  |Source| Data	Excel / CSV|
+  |Documentation	Markdown| PowerPoint|
 
 10. Author
   Vijay Kumar S G
